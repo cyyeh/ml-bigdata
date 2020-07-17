@@ -2,3 +2,6 @@
 
 course website: https://10605.github.io/spring2020/index.html
 
+## Lecture Summaries
+
+- [Lecture 1: Introduction](lecture_summaries/01.md)
