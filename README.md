@@ -12,3 +12,9 @@ course website: https://10605.github.io/spring2020/index.html
 
 - [Spark topology basics + setup with Databricks](recitation_summaries/01.md)
 - [Spark Transformations and Actions](recitation_summaries/02.md)
+
+## Assignment Summaries
+
+- [Assignment 1](assignments/hw1)
+  - This assignment involves understanding some basics of distributed computing, the MapReduce programming model, Spark, and an example of data cleaning.
+  - This assignment consists of two major parts. The first part is to build a simple word count application, and the second part is on entity resolution, a common type of data cleaning.
