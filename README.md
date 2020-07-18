@@ -10,5 +10,5 @@ course website: https://10605.github.io/spring2020/index.html
 
 ## Recitaion Summaries
 
-- [Spark topology basics](recitation_summaries/01.md)
+- [Spark topology basics + setup with Databricks](recitation_summaries/01.md)
 - [Spark Transformations and Actions](recitation_summaries/02.md)
