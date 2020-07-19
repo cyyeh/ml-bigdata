@@ -8,6 +8,7 @@ course website: https://10605.github.io/spring2020/index.html
 - [Lecture 2: Distributed Computing, MapReduce](lecture_summaries/02.md)
 - [Lecture 3: Intro to Spark](lecture_summaries/03.md)
 - [Lecture 4: Data Cleaning](lecture_summaries/04.md)
+- [Lecture 5: Spark: Joins, Structure, and DataFrames](lecture_summaries/05.md)
 
 ## Recitaion Summaries
 
